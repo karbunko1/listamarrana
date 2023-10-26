@@ -114,16 +114,6 @@ http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/192282
 http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/3293
 #EXTINF:-1 tvg-id="" tvg-name="XXX: Щёлк" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Щёлк
 http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/297570
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 3DXPASSION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 3DXPASSION
 http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/300494
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 4K EVILANGEL CUM4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: 4K EVILANGEL CUM4K
