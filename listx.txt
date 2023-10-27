@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LISTA TIRI-MARRANO SOLO MAY18" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif" group-title="tiristar-marrano TV",##LISTA STAR-MARRANO SOLO +18 ## lista gratis y libre
-http://hlsliveamdgl1-lh.akamaihd.net//hlsdvrlive_1@584096/master
 #EXTINF:-1 tvg-id="" tvg-name="XXX: NETIP Asian Porn" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: NETIP Asian Porn
 http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/297827
 #EXTINF:-1 tvg-id="" tvg-name="XXX: NF Busty" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: NF Busty
