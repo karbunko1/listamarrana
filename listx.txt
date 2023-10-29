@@ -1,4 +1,186 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XXX:SEXTREME_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4159
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4160
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4161
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4162
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4163
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:VENUS_LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4164
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:VENUS_LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4165
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:VENUS_LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4166
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:VENUS_LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4167
+#EXTINF:-1 tvg-id="Venus.ar" tvg-name="XXX:VENUS_LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:VENUS_LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4168
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA8" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA8
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4169
+#EXTINF:-1 tvg-id="" tvg-name="XXX | PINKO_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX | PINKO_LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4170
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4171
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4172
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4173
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:VENUS_LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4175
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA10
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4176
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA9" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA9
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4177
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_1 LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4178
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_1 LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4179
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_1 LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4180
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_1 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4181
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_1 LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4182
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_1 LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4183
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_2 LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4184
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_2 LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4185
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_2 LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4186
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_2 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4187
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_2 LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4188
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_2 LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4189
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_3 LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4190
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_4 LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4191
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_4 LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4192
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_4 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4193
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_4 LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4194
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_4 LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4195
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_5 LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4196
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_5 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4198
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_5 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4199
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_5 LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4200
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_5 LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4201
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_6 LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4202
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_6 LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4203
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_6 LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4204
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_6 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4205
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_6 LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4206
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_6 LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4207
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_7 LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4208
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_7 LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4211
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_7 LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4212
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:HOT_LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4215
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:HOT_LA1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4218
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:HOT_LA9
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4220
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA8" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:HOT_LA8
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4221
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:HOT_LA7
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4222
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:HOT_LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4223
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:B6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4224
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:B5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4225
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:B4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4226
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:B3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4227
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:B2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4228
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:B1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4229
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:A6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4230
+#EXTINF:-1 tvg-id="" tvg-name="XXX | DORCEL HD" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX | DORCEL HD
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4231
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:A4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4232
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:A3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4233
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:A2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4234
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:A1
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4235
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA14
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4236
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA13" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA13
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4237
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA12
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4238
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA11
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4239
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA10
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4240
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA9
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4241
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA8
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4242
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA7
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4243
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4244
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA5
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4245
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4246
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA3
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4247
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE_LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4248
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROTIC_4 LA6
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4249
+#EXTINF:-1 tvg-id="" tvg-name="XXX:X1 ( 18) ˣˣˣ" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:X1 ( 18) ˣˣˣ
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4250
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROX HD" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:EROX HD
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4256
+#EXTINF:-1 tvg-id="" tvg-name="XXX:JASMIN TV" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:JASMIN TV
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4259
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmerica.us" tvg-name="XXX:PLAYBOY EUROPE" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PLAYBOY EUROPE
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4262
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE TV HD" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PRIVATE TV HD
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4263
+#EXTINF:-1 tvg-id="" tvg-name="XXX:REDLIGHT HD" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:REDLIGHT HD
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4264
+#EXTINF:-1 tvg-id="" tvg-name="XXX | RED Hot XXX" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX | RED Hot XXX
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4267
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XXX:SEXTREME_LA4" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA4
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4271
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA2" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:PINKO_LA2
+http://2.magmas5.com:8000/twozDayBH8/954cm847d/4280
 #EXTINF:-1 tvg-id="" tvg-name="XXX: NETIP Asian Porn" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: NETIP Asian Porn
 http://aflaxtv.xyz:8080/0613bffd/ebc937b93a/297827
 #EXTINF:-1 tvg-id="" tvg-name="XXX: NF Busty" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: NF Busty
