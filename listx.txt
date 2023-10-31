@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZER" tvg-logo="" group-title="Adultos",BRAZZER
+http://167.114.156.136:25461/INFINITV/ZX89NM22/194
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 2" tvg-logo="" group-title="Adultos",Penthouse 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/195
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 DAZN 2" tvg-logo="" group-title="Deportes",Formula 1 DAZN 2
+http://167.114.156.136:25461/INFINITV/ZX89NM22/196
+#EXTINF:-1 tvg-id="" tvg-name="Candy TV" tvg-logo="" group-title="Adultos",Candy TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/197
+#EXTINF:-1 tvg-id="" tvg-name="Private TV" tvg-logo="" group-title="Adultos",Private TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/198
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler" tvg-logo="" group-title="Adultos",Blue Hustler
+http://167.114.156.136:25461/INFINITV/ZX89NM22/199
+#EXTINF:-1 tvg-id="" tvg-name="Passion XXX" tvg-logo="" group-title="Adultos",Passion XXX
+http://167.114.156.136:25461/INFINITV/ZX89NM22/200
+#EXTINF:-1 tvg-id="" tvg-name="OLALA" tvg-logo="" group-title="Adultos",OLALA
+http://167.114.156.136:25461/INFINITV/ZX89NM22/201
+#EXTINF:-1 tvg-id="" tvg-name="Pink O TV" tvg-logo="" group-title="Adultos",Pink O TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/202
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="Internacionales",Telecinco
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+#EXTINF:-1 tvg-id="" tvg-name="Vivid Red" tvg-logo="" group-title="Adultos",Vivid Red
+http://167.114.156.136:25461/INFINITV/ZX89NM22/204
 #EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XXX:SEXTREME_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA6
 http://2.magmas5.com:8000/twozDayBH8/954cm847d/4159
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA5
