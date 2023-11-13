@@ -1,5 +1,56 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="Playboy TV Europe" tvg-name="Playboy TV Europe" tvg-logo="https://i.ibb.co/f1nTtTp/playboytv.jpg" group-title="Adultos 🔞",Playboy TV Europe
+https://secure-cdn3-live-mlflux-net.akamaized.net/public/playboytveurope/playboytveurope.isml/all.mpd
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/PlayboyTV.png" group-title="Adultos 🔞",PLAYBOY TV
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel(PLAYBOY)/manifest.mpd
+#EXTINF:-1 tvg-id="Milf TV" tvg-name="Milf TV" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/MILFTV2.png" group-title="Adultos 🔞",Milf TV
+https://cache4.zapitv.com/live/eds_c2/milf_tv/dash_live_enc/milf_tv.mpd
+#EXTINF:-1 tvg-id="Lesbian TV" tvg-name="Lesbian TV" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/LESBIANTV2.png" group-title="Adultos 🔞",Lesbian TV
+https://cache4.zapitv.com/live/eds_c2/lesbian_tv/dash_live_enc/lesbian_tv.mpd
+#EXTINF:-1 tvg-id="Free TV" tvg-name="Free TV" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/FREE-XTV-zapi-tv.png" group-title="Adultos 🔞",Free TV
+https://cache2.zapitv.com/live/eds_c2/free_x_tv/dash_live_enc/free_x_tv.mpd
+#EXTINF:-1 tvg-id="French Lover TV" tvg-name="French Lover TV" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/FRENCHLOVERTV-zapi-tv-1.png" group-title="Adultos 🔞",French Lover TV
+https://cache2.zapitv.com/live/eds_c2/frenchlover_tv/dash_live_enc/frenchlover_tv.mpd
+#EXTINF:-1 tvg-id="Teen TV" tvg-name="Teen TV" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/TEENTV2.png" group-title="Adultos 🔞",Teen TV
+https://cache2.zapitv.com/live/eds_c2/teen_tv/dash_live_enc/teen_tv.mpd
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://zapitv.com/wp-content/uploads/2021/07/TRANSTV2.png" group-title="Adultos 🔞",Trans TV
+https://cache2.zapitv.com/live/eds_c2/trans_tv/dash_live_enc/trans_tv.mpd
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Blue Hustler" tvg-logo="https://i.ibb.co/C81tZPV/bluehustler.png" group-title="Adultos 🔞",Blue Hustler
+https://tr.live.cdn.cgates.lt/live/dash/560601/index.mpd
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Amateur TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Amateur TV🔞
+https://live.adultiptv.net/amateur.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Hardcore TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Hardcore TV🔞
+https://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Latinas TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Latinas TV🔞
+https://live.adultiptv.net/latinas.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Russian TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Russian TV🔞
+https://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Blowjob TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Blowjob TV🔞
+https://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Threesome TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Threesome TV🔞
+https://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Interracial TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Interracial TV🔞
+https://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Big As TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Big As TV🔞
+https://live.adultiptv.net/bigas.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Pornstars TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Pornstars TV🔞
+https://live.adultiptv.net/pornstars.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Fetis TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Fetis TV🔞
+https://live.adultiptv.net/fetis.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Big Dick TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Big Dick TV🔞
+https://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Teen HD TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Teen HD TV🔞
+https://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Pov HD TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Pov HD TV🔞
+https://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Lesbian TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Lesbian TV🔞
+https://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Big Tits TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Big Tits TV🔞
+https://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="Blue Hustler" tvg-name="Anal TV🔞" tvg-logo="https://img.freepik.com/premium-vector/adults-only-18-plus-sensitive-content-explicit-video-vector-stock-illustration_100456-10148.jpg" group-title="Adultos 🔞",Anal TV🔞
+https://live.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XXX:SEXTREME_LA6" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA6
 http://2.magmas5.com:8000/twozDayBH8/954cm847d/4159
 #EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA5" tvg-logo="" group-title="♨️⛔ ♀ ADULTOS ♂ +18 ⛔♨️",XXX:SEXTREME_LA5
