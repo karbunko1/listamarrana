@@ -1,8 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL", ES: LA SEXTA
 
-/IPTV
     /Deportes
         #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL", ES: LA SEXTA
         http://hifise.top:8080/211694370612110/71694370612/5625
