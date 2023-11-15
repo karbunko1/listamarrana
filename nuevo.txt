@@ -1,24 +1,12 @@
 #EXTM3U
 
-# Grupo 1 - tdt
-#EXTINF:-1 tvg-id="tdt" tvg-name="CNN" tvg-logo="cnn.png" group-title="tdt"
-#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | TVE INTERNACIONAL
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/42720
-#EXTINF:0 tvg-id="LA1.es" group-title="PREMIUM ESPAÑA ",LA 1 FHD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/278027
-#EXTINF:0 tvg-id="LA1.es" group-title="PREMIUM ESPAÑA ",LA 1 SD ?
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/278028
-#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | LA 2
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31912
-#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | ANTENA 3 HD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/55885
-#EXTINF:0 tvg-id="ext" group-title="PREMIUM ESPAÑA ",ESP | ANTENA 3 SD
-http://svtv.xyz:8080/CesarAlv/GWQ4EAM/31906
 
-# Grupo 2 - Deportes
-#EXTINF:-1 tvg-id="deportes1" tvg-name="ESPN" tvg-logo="espn.png" group-title="Deportes",ESPN
-http://url-del-canal
 
-# Grupo 3 - Películas
-#EXTINF:-1 tvg-id="peliculas1" tvg-name="HBO" tvg-logo="hbo.png" group-title="Películas",HBO
-http://url-del-canal
+/IPTV
+    /Deportes
+        - Deportes.m3u
+    /Películas
+        - Películas.m3u
+    - OtroCanal.m3u
+
+
