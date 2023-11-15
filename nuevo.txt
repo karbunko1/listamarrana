@@ -4,9 +4,11 @@
 
 /IPTV
     /Deportes
-        - Deportes.m3u
+        #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/lasexta-es.png" group-title="ES | GENERAL", ES: LA SEXTA
+        http://hifise.top:8080/211694370612110/71694370612/5625
     /Películas
-        - Películas.m3u
+        #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg" ,ML Campeones 4 1080  f2df
+        acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
     - OtroCanal.m3u
 
 
